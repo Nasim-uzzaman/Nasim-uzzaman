@@ -1,4 +1,4 @@
 -  Hi, this is @Nasim-uzzaman
 -  I’m interested in learning new skills and work with brilliant minds.
--  I’m currently learning Neural Networks, cloud computing, programming language (Java, python, Laravel).
+-  I’m currently learning Neural Networks, Natural Language Processing, cloud computing, programming language (Java, python, Laravel).
 -  For contact, Email: nasimuzzaman98@gmail.com
